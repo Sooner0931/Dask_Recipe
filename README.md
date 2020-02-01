@@ -1,2 +1,2 @@
 # Dask_Recipe
-Dask: scalable computing for the next decade
+Scalable computing for the next decade
